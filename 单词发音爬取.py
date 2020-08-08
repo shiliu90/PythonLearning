@@ -172,3 +172,6 @@ while True:
         yd_en(input_word)
         ol_uk(input_word)
         ol_en(input_word)
+        
+        
+##
