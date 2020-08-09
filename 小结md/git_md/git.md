@@ -36,7 +36,7 @@
 2. 在某个路径下创建一个文件夹（用于存放 git 要管理的文件）  
          mac： /Users/shi/Documents/pythonLearning/PythonLearning
 ```
-
+![](git区域划分.png)
 
  #### 2.1 初始化仓库 （对一个文件夹只需要用一次即 一个项目只要一次）
    ```git
@@ -94,7 +94,7 @@ git log                                                查看没有成功
 --------------------   以后有了 github 别忘了推送    ---------------------------------
 git push -u origin master（主线）/Development(开发)      推送到主线还是支线
 ```
- 
+ ![](git分支.png)
 
 ## 4. 分支
 一个软件的开发分：  正式版 和 测试版 。 测试版即是分支的意思，所有的开发都是在 分支上进行。
@@ -132,6 +132,7 @@ git push -u origin master（主线）/Development(开发)      推送到主线�
 
 ## 5. github
 **官方网站**                                                      https://github.com/
+#### 5.1 建立项目
 
 
 
